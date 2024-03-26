@@ -1,0 +1,15 @@
+map <a-k> previousTab
+map <a-j> nextTab
+unmap K
+unmap J
+map <a-s-k> moveTabLeft
+map <a-s-j> moveTabRight
+map zk zoomOut
+map zj zoomIn
+map ' Marks.activate
+map gh Vomnibar.activateHistory
+map gH Vomnibar.activateHistoryInNewTab
+
+mapKey <a-q> x
+mapKey <c-d> d
+mapKey <c-u> u
